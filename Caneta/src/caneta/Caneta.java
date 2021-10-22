@@ -17,8 +17,7 @@ public class Caneta {
                 + "Cor: " + this.cor + "\n" 
                 + "Ponta: " + this.ponta + "\n" 
                 + "Carga: " + this.carga + "\n" 
-                + "Tampada? " 
-                 + this.tampada);
+                + "Tampada? " + this.tampada);
     }
     
    void rabiscar(){

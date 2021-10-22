@@ -26,8 +26,8 @@ public class Area {
         c2.ponta = 0.7f;
         c2.tampada = true;
         c2.status();
-        c2.rabiscar();
-        
+        c2.rabiscar();        
+
     }
     
 }
